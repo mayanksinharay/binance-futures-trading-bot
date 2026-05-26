@@ -161,4 +161,4 @@ python-dotenv
 
 ## Author
 
-Mayank Sinharay
+Mayank Sinha Ray
